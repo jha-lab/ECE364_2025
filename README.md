@@ -55,7 +55,7 @@ Each assignment in this course consists of two components: a **theoretical secti
 - **Programming Section**  
   For programming tasks, you are encouraged to use [Google Colab](https://colab.research.google.com/), especially if you are unable to run the code locally. Detailed instructions on using Colab can be found here:  
   - `/docs/Working with Google Colab.pdf`
-  - [One-minute Tutorial](https://drive.google.com/file/d/1ANaoLv6HWze6RLm1Fvsv8qpHpM4GZGQb/view?usp=drive_link)  
+  - **[One-minute Tutorial]**(https://drive.google.com/file/d/1ANaoLv6HWze6RLm1Fvsv8qpHpM4GZGQb/view?usp=drive_link)  
 
 For additional guidelines, please refer to:  
 - `/docs/Assignment Requirements.pdf`  
