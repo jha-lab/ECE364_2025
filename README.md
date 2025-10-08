@@ -12,7 +12,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 ## 💼 Course staff
 
 * Instructor: [Niraj K. Jha](https://www.princeton.edu/~jha/)
-* TAs: [Yihao Liang](https://yihao-liang.github.io/), Yuval Kansal, Hee Yun Suh
+* TAs: [Yihao Liang](https://yihao-liang.github.io/), [Yuval Kansal](https://yuvalkansal.me/), Hee Yun Suh
 
 ## 📅 Course Schedule
 
